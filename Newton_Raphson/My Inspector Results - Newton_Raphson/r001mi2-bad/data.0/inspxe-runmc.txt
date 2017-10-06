@@ -1,0 +1,10 @@
+
+=== Start: [2017/10/04 20:58:16] === 
+Analysis started...
+Result file: C:\Users\John\documents\visual studio 2015\Projects\Newton_Raphson\Newton_Raphson\My Inspector Results - Newton_Raphson\r001mi2\r001mi2.inspxe 
+Error: An internal error has occurred. Our apologies for this inconvenience. Please gather a description of the steps leading up to the problem and contact the Intel customer support team.
+Error: An internal error has occurred. Our apologies for this inconvenience. Please gather a description of the steps leading up to the problem and contact the Intel customer support team.
+Application exit code: -1 
+Result file: C:\Users\John\documents\visual studio 2015\Projects\Newton_Raphson\Newton_Raphson\My Inspector Results - Newton_Raphson\r001mi2\r001mi2.inspxe 
+Analysis terminated
+=== End: [2017/10/04 20:58:20] === 
